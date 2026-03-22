@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Wag Ipagsabi",
+  "base_artist": "Dreycruz & Bert Symoun",
+  "createdAt": "2026-03-22T13:31:00.949030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wag Ipagsabi",
+      "artist": "Dreycruz",
+      "has_synced": true,
+      "path": "select/01_Wag_Ipagsabi_Dreycruz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreycruz - Wag Ipagsabi (ft. Bert Symoun) (Official Lyric Visualizer)",
+      "artist": "Dreycruz",
+      "has_synced": true,
+      "path": "select/02_Dreycruz_-_Wag_Ipagsabi_(ft._Bert_Symoun)_(Official_Lyric_Visualizer)_Dreycruz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wag Ipagsabi",
+      "artist": "Bert Symoun",
+      "has_synced": true,
+      "path": "select/03_Wag_Ipagsabi_Bert_Symoun.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wag Ipagsabi",
+      "artist": "Dreycruz • Bert Symoun",
+      "has_synced": true,
+      "path": "select/04_Wag_Ipagsabi_Dreycruz_•_Bert_Symoun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wag Ipagsabi",
+      "artist": "Dreycruz",
+      "has_synced": false,
+      "path": "select/05_Wag_Ipagsabi_Dreycruz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wag Ipagsabi",
+      "artist": "Dreycruz, Bert Symoun",
+      "has_synced": true,
+      "path": "select/06_Wag_Ipagsabi_Dreycruz,_Bert_Symoun.lrc"
+    }
+  ]
+}
